@@ -49,3 +49,11 @@ In order to calculate profitability, we multiplied the popularity by selected ne
 
 # Making the Final Decision
 We performed the phases mentioned above for each neighbourhood group separately, and in the end, considering the popularity, worth, profitability and crime data, we decided Williamsburg, Brooklyn has the best prospects for an Airbnb property investment in New York City.
+
+
+
+### References: 
+** https://www.kaggle.com/  - NY airbnb open dataset
+** https://data.cityofnewyork.us – Crime API
+** matplotlib.org
+** Google Fu
