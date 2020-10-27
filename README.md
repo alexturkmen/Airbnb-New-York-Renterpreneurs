@@ -53,7 +53,7 @@ We performed the phases mentioned above for each neighbourhood group separately,
 
 
 ### References: 
-** https://www.kaggle.com/  - NY airbnb open dataset
-** https://data.cityofnewyork.us – Crime API
-** matplotlib.org
-** Google Fu
+*https://www.kaggle.com/  - NY airbnb open dataset
+*https://data.cityofnewyork.us – Crime API
+*matplotlib.org
+*Google Fu
